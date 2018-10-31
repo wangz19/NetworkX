@@ -4,7 +4,7 @@
 #include <math.h>
 #include <sys/types.h>
 #include <time.h>
-#define Nodes 20000
+#define Nodes 4
 #define P 0.0025
 /* if numbers of nodes N and edges E are given then p*N(N-1)/2 = E so p = 2E/N/(N-1) */
 #define N 624
